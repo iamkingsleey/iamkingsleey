@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1epO-lbeKDNK8IFXFj_rpHBdu5orr3zXj/view](https://drive.google.com/file/d/1epO-lbeKDNK8IFXFj_rpHBdu5orr3zXj/view)
 
-- ⚡ Fun fact **I have a nice voice...Lol**
+- ⚡ Favorite Game **COD**
 
 ### Blogs posts
 - <a href="https://iamkingsleey.medium.com/open-source-projects-await-your-design-skills-heres-how-to-make-an-impact-with-5-essential-tips-211a895d2574">BECOME AN OPEN-SOURCE DESIGN PRO WITH THESE 5 ESSENTIAL STEPS</a>
