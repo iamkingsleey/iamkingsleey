@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkinglseey&label=Profile%20views&color=0e75b6&style=flat" alt="iamkinglseey" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamkingsleey" target="blank"><img src="https://img.shields.io/twitter/follow/iamkingsleey?logo=twitter&style=for-the-badge" alt="iamkingsleey" /></a> </p>
+
 
 - 👨‍ I'm available for hire
 
