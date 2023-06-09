@@ -1,5 +1,5 @@
+![Readme-Banner](https://github.com/iamkingsleey/iamkingsleey/assets/63562509/caec9fb4-33a6-471c-a632-9b8be5d50a9e)
 
-![Product-design-HDS](https://github.com/iamkingsleey/iamkingsleey/assets/63562509/fe137e2e-7cc0-4550-b797-918ab75aada9)
 
 <h1 align="left">Hi 👋, I'm Kingsley Mkpandiok</h1>
 <h3 align="left">Passionate about empowering users through thoughtful design solutions.</h3>
