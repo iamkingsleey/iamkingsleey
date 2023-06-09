@@ -1,4 +1,5 @@
-![Readme-Banner](https://github.com/iamkingsleey/iamkingsleey/assets/63562509/caec9fb4-33a6-471c-a632-9b8be5d50a9e)
+
+<img width="1280" alt="Banner" src="https://github.com/iamkingsleey/iamkingsleey/assets/63562509/65ba59b6-bb5e-40d2-8135-2b442d0f05a4">
 
 
 <h1 align="left">Hi 👋, I'm Kingsley Mkpandiok</h1>
