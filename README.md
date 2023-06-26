@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [`https://medium.com/@iamkingsleey`](https://medium.com/@iamkingsleey)
 
-- 💬 Ask me about **UX/UX Design, Open Source Collaboration**
+- 💬 Ask me about **UI/UX Design, Branding and  Open-Source Collaboration**
 
 - 📫 How to reach me **kingsleymkpandiok@gmail.com**
 
