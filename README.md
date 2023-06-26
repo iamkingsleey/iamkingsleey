@@ -31,6 +31,7 @@
 ### Blogs posts
 - <a href="https://iamkingsleey.medium.com/open-source-projects-await-your-design-skills-heres-how-to-make-an-impact-with-5-essential-tips-211a895d2574">BECOME AN OPEN-SOURCE DESIGN PRO WITH THESE 5 ESSENTIAL STEPS</a>
 - <a href="https://iamkingsleey.medium.com/journeying-into-open-source-collaboration-1eda2cc9e5b5">Journeying into Open-Source Collaboration</a>
+- <a href="https://iamkingsleey.medium.com/open-source-collaboration-using-github-as-a-designer-2f21e282c4ed">Open Source Collaboration Using GitHub As A Designer.</a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
