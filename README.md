@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Webflow, Blender.**
 
-- 💻 All of my projects are available at [`https://kingsley.vzy.io/`](https://kingsley.vzy.io/)
+- 💻 All of my projects are available at [`website`](https://kingsleey.framer.website/)
 
 - 📝 I regularly write articles on [`https://medium.com/@iamkingsleey`](https://medium.com/@iamkingsleey)
 
