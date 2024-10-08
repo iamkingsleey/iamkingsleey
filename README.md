@@ -11,7 +11,7 @@
 
 - 👨‍ I'm available for hire
 
-- 🔭 I’m currently contributing to [`Project Badging`](https://github.com/AllInOpenSource/ProjectBadging)
+- 🔭 I’m currently contributing to [`CHAOSS`](https://chaoss.community/)
 
 - 🌱 I’m currently learning **Webflow, Blender.**
 
@@ -22,8 +22,6 @@
 - 💬 Ask me about **UI/UX Design, Branding and  Open-Source Collaboration**
 
 - 📫 How to reach me **kingsleymkpandiok@gmail.com**
-
-- 📄 Know about my experiences [`https://drive.google.com/file/d/1epO-lbeKDNK8IFXFj_rpHBdu5orr3zXj/view`](https://drive.google.com/file/d/1epO-lbeKDNK8IFXFj_rpHBdu5orr3zXj/view)
 
 - ⚡ Favorite Game **COD**
 ***
