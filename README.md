@@ -19,7 +19,7 @@
 
 - 💻 All of my projects are available at [`website`](https://kingsleey.framer.website/)
 
-- 📝 I regularly write articles on [`https://medium.com/@iamkingsleey`](https://medium.com/@iamkingsleey)
+- 📝 I regularly write articles on [`Medium`](https://medium.com/@iamkingsleey)
 
 - 💬 Ask me about **UI/UX Design, Branding, and  Open-Source Collaboration**
 
