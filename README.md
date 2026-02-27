@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **kingsleymkpandiok@gmail.com**
 
-- ⚡ Favorite Game **COD**
+- ⚡ Favorite Games **CHESS & COD**
 ***
 
 ### Blogs posts
