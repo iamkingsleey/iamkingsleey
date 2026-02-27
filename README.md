@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [`https://medium.com/@iamkingsleey`](https://medium.com/@iamkingsleey)
 
-- 💬 Ask me about **UI/UX Design, Branding and  Open-Source Collaboration**
+- 💬 Ask me about **UI/UX Design, Branding, and  Open-Source Collaboration**
 
 - 📫 How to reach me **kingsleymkpandiok@gmail.com**
 
@@ -27,9 +27,10 @@
 ***
 
 ### Blogs posts
+- <a href="https://medium.com/design-bootcamp/the-behavioral-shift-nobody-is-designing-for-672496cdf4a4">The Behavioral Shift Nobody Is Designing For.</a>
+- <a href="https://medium.com/design-bootcamp/are-we-designing-ourselves-into-sameness-with-ai-3b732fb8436a">Are We Designing Ourselves Into Sameness With AI?</a>
 - <a href="https://iamkingsleey.medium.com/open-source-collaboration-using-github-as-a-designer-2f21e282c4ed">Open Source Collaboration Using GitHub As A Designer.</a>
 - <a href="https://iamkingsleey.medium.com/open-source-projects-await-your-design-skills-heres-how-to-make-an-impact-with-5-essential-tips-211a895d2574">Become An Open-Source Design Pro With These 5 Essential Steps.</a>
-- <a href="https://iamkingsleey.medium.com/journeying-into-open-source-collaboration-1eda2cc9e5b5">Journeying into Open-Source Collaboration.</a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
