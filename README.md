@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **UI/UX Design, Branding, and  Open-Source Collaboration**
 
-- 📫 How to reach me **kingsleymkpandiok@gmail.com**
+- 📫 How to reach me **iamkingsleey@gmail.com**
 
 - ⚡ Favorite Games **CHESS & COD**
 ***
