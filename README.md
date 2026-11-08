@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **iamkingsleey@gmail.com**
 
-- ⚡ Favorite Games **CHESS**
+- ⚡ Favorite Game **CHESS**
 ***
 
 ### Blogs posts
