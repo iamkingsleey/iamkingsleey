@@ -15,9 +15,7 @@
 
 - 🌱 I’m currently tinkering with Agentic workflows
 
-- 🤖 Checkout my open source Slack agent [`Standup Agent`](https://iamkingsleey.github.io/standup-agent/)
-
-- 💻 All of my projects are available at [`website`](https://kingsleey.framer.website/)
+- 💻 All of my projects are available at [`website`](https://iamkingsleey.com/)
 
 - 📝 I regularly write articles on [`Medium`](https://medium.com/@iamkingsleey)
 
